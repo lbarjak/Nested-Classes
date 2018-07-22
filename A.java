@@ -3,9 +3,7 @@ class A {
     private int AA = 1;
 
     public static void main(String[] a) {
-
         new A();
-
     }
 
     A() { 
